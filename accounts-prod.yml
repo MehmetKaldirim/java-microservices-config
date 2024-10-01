@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MathBank accounts related Prod APIs "
   contactDetails:
     name: "Math Denizi - Product Owner"
-    email: "af99ba76fa7dafb903d3d4cd8c6b1f7b9356f9fd8586b8f8929cc43280e173e04c5c8ca94e46af3fedeec67e1d469627"
+    email: "{cipher}af99ba76fa7dafb903d3d4cd8c6b1f7b9356f9fd8586b8f8929cc43280e173e04c5c8ca94e46af3fedeec67e1d469627"
   onCallSupport:
     - (333) 151-1234
     - (333) 523-1345
