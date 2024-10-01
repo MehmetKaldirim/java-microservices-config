@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to MathBank cards related  Prod1 APIs "
+  message: "Welcome to MathBank cards related  Prod Web APIs "
   contactDetails:
     name: "Math Denizi - Cards Product Owner"
     email: "mathweb@gmail.com"
