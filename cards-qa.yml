@@ -1,5 +1,5 @@
 build:
-  version: "2.5"
+  version: "2.7"
 
 accounts:
   message: "Welcome to MathBank cards related  QUALITY APIs "
