@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to MathBank accounts related  Cards QA APIs "
+  message: "Welcome to MathBank accounts related  Cards Qualtiy APIs "
   contactDetails:
     name: "Mathias Webber - QA Cards Leiter"
     email: "mathweb@gmail.com"
