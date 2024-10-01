@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to MathBank accounts related Production APIs "
+  message: "Welcome to MathBank accounts related Prod APIs "
   contactDetails:
     name: "Math Denizi - Product Owner"
     email: "{cipher}af99ba76fa7dafb903d3d4cd8c6b1f7b9356f9fd8586b8f8929cc43280e173e04c5c8ca94e46af3fedeec67e1d469627"
