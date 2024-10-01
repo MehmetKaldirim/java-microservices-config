@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to MathBank accounts related Loans Prod APIs "
+  contactDetails:
+    name: "Math Denizi - Loanss Product Owner"
+    email: "mathweb@gmail.com"
+  onCallSupport:
+    - (333) 151-1234
+    - (333) 523-1345

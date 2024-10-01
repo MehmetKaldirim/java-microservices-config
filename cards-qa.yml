@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to MathBank accounts related  Cards QA APIs "
+  contactDetails:
+    name: "Mathias Webber - QA Cards Leiter"
+    email: "mathweb@gmail.com"
+  onCallSupport:
+    - (222) 151-1234
+    - (222) 523-1345

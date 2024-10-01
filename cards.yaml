@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to MathBank accounts related local APIs "
+  contactDetails:
+    name: "Math Web - MERN Fullstack Developer"
+    email: "mathweb@gmail.com"
+  onCallSupport:
+    - (111) 151-1234
+    - (111) 523-1345

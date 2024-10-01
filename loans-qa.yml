@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to MathBank accounts related  Loans QA APIs "
+  contactDetails:
+    name: "Mathias Webber - QA Loans Leiter"
+    email: "mathweb@gmail.com"
+  onCallSupport:
+    - (222) 151-1234
+    - (222) 523-1345

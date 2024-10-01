@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MathBank accounts related Prod APIs "
+  contactDetails:
+    name: "Math Denizi - Product Owner"
+    email: "mathweb@gmail.com"
+  onCallSupport:
+    - (333) 151-1234
+    - (333) 523-1345
