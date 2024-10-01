@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to MathBank accounts related local APIs "
+  message: "Welcome to MathBank cards related local APIs "
   contactDetails:
     name: "Math Web - MERN Fullstack Developer"
     email: "mathweb@gmail.com"
