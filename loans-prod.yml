@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to MathBank accounts related Loans Prod APIs "
+  message: "Welcome to MathBank accounts related Loans Production APIs "
   contactDetails:
     name: "Math Denizi - Loanss Product Owner"
     email: "mathweb@gmail.com"
