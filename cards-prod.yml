@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to MathBank cards related  Prod Web APIs with rabbitql and docker-compose check webhook again "
+  message: "Welcome to MathBank cards related  Prod Web APIs with rabbitql and docker-compose webhook kadar tas düssün basin"
   contactDetails:
     name: "Math Denizi - Cards Product Owner"
     email: "mathweb@gmail.com"
