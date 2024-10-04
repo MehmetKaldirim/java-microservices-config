@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to MathBank Loans related  with webhook Prod APIs reklamlardan sonra"
+  message: "Welcome to MathBank Loans related  with webhook Prod APIs reklamlar bitti"
   contactDetails:
     name: "Math Denizi - Loanss Product Owner"
     email: "mathweb@gmail.com"
